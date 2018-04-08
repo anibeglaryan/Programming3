@@ -1,6 +1,6 @@
 var matrix = [];
 
-var side = 10;
+var side = 15;
 var k = 50;
 var GrassArr = [];
 var XotakerArr = [];

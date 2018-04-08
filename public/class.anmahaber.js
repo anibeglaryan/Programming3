@@ -1,0 +1,3 @@
+class Anmahaber extends LivingCreature{
+    
+}
